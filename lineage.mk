@@ -24,7 +24,7 @@ $(call inherit-product, device/qiku/qk1713/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_qiku
+PRODUCT_NAME := lineage_qk1713
 PRODUCT_BRAND := qiku
 PRODUCT_DEVICE := qk1713
 PRODUCT_MANUFACTURER := qiku
